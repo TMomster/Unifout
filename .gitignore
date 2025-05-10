@@ -2,3 +2,6 @@
 .idea/
 __pycache__/
 venv/
+test/
+test.py
+test.txt
